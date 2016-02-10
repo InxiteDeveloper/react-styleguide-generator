@@ -75,6 +75,7 @@
   "dependencies": {
     "babel": "^6.x.x",
     "browserify": "^11.0.1",
+    "babel-core": "^6.5.1",
     "bunyan": "^1.4.0",
     "fs-extra": "^0.24.0",
     "glob": "^5.0.10",
